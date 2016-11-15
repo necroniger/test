@@ -46,7 +46,7 @@ public class Rules {
             }
         }
         if (!atLeastOneConfirms) {
-            System.out.println("this text doesn't confirms any rule ");
+            System.out.println("this text doesn't confirm any rule ");
         }
     }
 
