@@ -55,7 +55,7 @@ public class Rules {
      * @param args
      */
     public static void main(String [] args) {
-        System.out.println("Please, input something");
+        System.out.println("Please,try to  input something");
         ParentRule [] rulesArray = initialize(convertScanner());
         output(rulesArray);
     }
